@@ -9,6 +9,6 @@
         {"name": "Bernardo Iribarne", "email": "ber.iribarne@gmail.com"}
     ],
     "autoload": {
-        "psr-0": { "Rasty\\Grid": "src/main/php" }
+        "psr-0": { "Rasty\\Layout": "src/main/php" }
     }
 }
